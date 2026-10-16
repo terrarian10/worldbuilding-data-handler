@@ -1,0 +1,5 @@
+.clangd
+.clang-format
+CMakeLists.txt
+compile_commands.json
+Makefile
