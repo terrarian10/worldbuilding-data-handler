@@ -1,0 +1,94 @@
+============================================================
+                      NATION STATS
+============================================================
+
+  NATIONAL UNITY
+  ------------------------------------------------
+  Population                         61210872.00
+  Unrest                                   -1.00
+  War Support                             115.00%
+  Stability                               100.00%
+  Nationalism                              20.00%
+  Religious Fervor                          7.50%
+  Ideological Radicality                    0.00%
+
+  ADMINISTRATION
+  ------------------------------------------------
+  Autonomy Modifier                        95.00%
+  Political Power Modifier                102.00%
+  Administrative Efficiency                 1.42
+  Governing Capacity                       55.00
+  Governing Capacity Used                  61.21
+  Corruption                                0.00%
+  Centralization                           50.00
+  Core Creation Cost                       47.65%
+
+  DIPLOMACY
+  ------------------------------------------------
+  Province Warscore Cost                   50.00%
+  Diplomatic Capacity                       1.00
+  Fabricate Claims Cost                    42.00%
+
+  RESEARCH
+  ------------------------------------------------
+  Research Speed                          105.00%
+  Research Cost                           150.50%
+
+  ECONOMICS
+  ------------------------------------------------
+  Income                                    2.42
+  Net Income                               -0.64
+  National Expenses                         3.06
+  Misc Expenses                             0.00
+  Global Goods Produced Modifier            6.33%
+  National Taxable Base                     0.60
+  National Tax Modifier                     6.60%
+  Inflation                                 0.00%
+  Global Cost Modifier                    100.00%
+  Building Cost Modifier                  130.00%
+  State Maintenance Modifier                5.00%
+
+  MILITARY
+  ------------------------------------------------
+  Recruitable Population                    2.00%
+  Recruitable Population Modifier         138.33%
+  Manpower                            1693500.75
+  Casualties                                0.00
+  Regiment Upkeep Cost                      1.00
+  Land Force Limit                         86.72
+  Army Discipline                         100.00%
+  Army Attack                               1.10
+  Core Army Attack                          1.00
+  Army Defense                              1.00
+  Core Army Defense                         1.30
+  Army Organization                         0.00%
+  Army Health                               1.00
+  Army Movement Speed                       1.00
+  Navy Attack                               1.07
+  Navy Defense                              1.07
+  Navy Force Limit                         43.36
+  Air Attack                                0.60
+
+  GOODS - PRODUCTION
+  ------------------------------------------------
+  Raw Produced                              1.58
+  Processed Produced                        0.13
+  Advanced Produced                         0.13
+  Food Produced                            37.95
+  Oil Produced                              0.25
+
+  GOODS - CONSUMPTION
+  ------------------------------------------------
+  Raw Consumed                              3.00
+  Processed Consumed                        0.00
+  Advanced Consumed                         0.00
+  Food Consumed                            41.21
+  Oil Consumed                              0.00
+
+  GOODS - NET BALANCE
+  ------------------------------------------------
+  Raw                                      -1.42
+  Processed                                 0.13
+  Advanced                                  0.13
+  Food                                     -3.26
+  Oil                                       0.25
